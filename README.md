@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Priyanka-0507/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0239-sliding-window-maximum](https://github.com/Priyanka-0507/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0978-longest-turbulent-subarray](https://github.com/Priyanka-0507/leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Priyanka-0507/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0978-longest-turbulent-subarray](https://github.com/Priyanka-0507/leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Priyanka-0507/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0978-longest-turbulent-subarray](https://github.com/Priyanka-0507/leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
 <!---LeetCode Topics End-->
